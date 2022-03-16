@@ -1,0 +1,25 @@
+collections:
+  authors:
+    output: true
+
+remote_theme: pmarsceill/just-the-docs
+
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+color_scheme: red
+
+aux_links:
+  "Github":
+    - "https://github.com/hyperswine/the-encyclopedia"
+
+footer_content: "The Encyclopedia<sup>TM</sup>"
+
+logo: "/assets/img/logo.png"
