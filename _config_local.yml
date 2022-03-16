@@ -2,7 +2,7 @@ collections:
   authors:
     output: true
 
-remote_theme: pmarsceill/just-the-docs
+theme: "just-the-docs"
 
 search_enabled: true
 search:
