@@ -1,3 +1,6 @@
 source "https://rubygems.org"
 
-gem "just-the-docs", "0.3.3"
+gem "jekyll"
+gem "jekyll-seo-tag"
+gem "jekyll-remote-theme"
+gem "rake"
