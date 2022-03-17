@@ -1,0 +1,50 @@
+{"0": {
+    "doc": "Animals",
+    "title": "Animalia",
+    "content": "Very cool. ",
+    "url": "/pages/animals.html#animalia",
+    "relUrl": "/pages/animals.html#animalia"
+  },"1": {
+    "doc": "Animals",
+    "title": "Bear",
+    "content": "A bear is a carnivore. ",
+    "url": "/pages/animals.html#bear",
+    "relUrl": "/pages/animals.html#bear"
+  },"2": {
+    "doc": "Animals",
+    "title": "Animals",
+    "content": " ",
+    "url": "/pages/animals.html",
+    "relUrl": "/pages/animals.html"
+  },"3": {
+    "doc": "Home",
+    "title": "This is such a cool encyclopedia",
+    "content": "Yes you heard it from me yourself. ",
+    "url": "/#this-is-such-a-cool-encyclopedia",
+    "relUrl": "/#this-is-such-a-cool-encyclopedia"
+  },"4": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    "relUrl": "/"
+  },"5": {
+    "doc": "Submersibles",
+    "title": "Submarine",
+    "content": "A submarine is something that can go underwater very well. There are also semi submarines or pseudo subs used by druggers. ",
+    "url": "/pages/submersibles.html#submarine",
+    "relUrl": "/pages/submersibles.html#submarine"
+  },"6": {
+    "doc": "Submersibles",
+    "title": "Bouyancy",
+    "content": "Fill the ballast with water to increase mass and density. Become heavier than surrouding water and therefore start to sink at a rate R. Dependent on how much heavier. ",
+    "url": "/pages/submersibles.html#bouyancy",
+    "relUrl": "/pages/submersibles.html#bouyancy"
+  },"7": {
+    "doc": "Submersibles",
+    "title": "Submersibles",
+    "content": " ",
+    "url": "/pages/submersibles.html",
+    "relUrl": "/pages/submersibles.html"
+  }
+}
